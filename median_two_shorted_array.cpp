@@ -1,4 +1,4 @@
-/*copy from ChatGPT*/
+//Copy From ChatGPT//
 
 #include <vector>
 
